@@ -2,6 +2,17 @@
 
 
 /* Show Grid */
-.showgrid {
+/*.showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
-}
+}*/
+
+h1{
+	font-family: 'Stalinist One', cursive;
+text-align: center;
+	}
+
+	h3{
+		font-family: 'Stalinist One', cursive;
+		text-align: center
+	}
+	
